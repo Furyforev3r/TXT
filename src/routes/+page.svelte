@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-    <title>TXT - Login</title>
+    <title>TXT - Welcome!</title>
 </svelte:head>
 
 <main>
