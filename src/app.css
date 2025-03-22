@@ -24,10 +24,6 @@ body {
   box-sizing: border-box;
   overflow-x: hidden;
   background-color: var(--background-color);
-  opacity: 1;
-  background-image:  radial-gradient(#222 2px, transparent 2px), radial-gradient(var(--button-background) 2px, var(--background-color) 2px);
-  background-size: 80px 80px;
-  background-position: 0 0,40px 40px;
   color: var(--text-color);
 }
 
